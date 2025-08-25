@@ -1,4 +1,4 @@
-# Mood Tracker that just feels right to use
+# Mood Tracker that just feels RIGHT to use
 
 This website is the PERFECT way to answer the question, "How was your week?" or "How have you been the last couple of months?" 
 
